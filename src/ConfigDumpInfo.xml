@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="CommonModule.sj_Видеоконференции" id="f2c94dc1-ab4f-4a5f-8b3f-f7bf33558dcc" configVersion="02aa270553fe9105292adf2d500388212f99e529"/>
+		<Metadata name="CommonModule.sj_Видеоконференции.Module" id="f2c94dc1-ab4f-4a5f-8b3f-f7bf33558dcc.0" configVersion="a91e5951766722818b3cd14c59b7aca139d2399a"/>
+		<Metadata name="Configuration.ИнтеграцияСSberJazz" id="0a968581-4af4-453d-a7ec-48a0abaf04d1" configVersion="f370f6c5a68c6cd453970ab2adb7d53a51ce46a6"/>
+		<Metadata name="Language.Русский" id="b5522caf-b2e3-4392-b810-15df53575c3c" configVersion="67c494cff6ebfa790d558758dc976fec37683ece"/>
+		<Metadata name="Role.sj_ОсновнаяРоль" id="42236cce-92a4-4b0b-be15-f11b90ff61d5" configVersion="cc6e9d6dc972579fc44d83037f81ddecc5a00d45"/>
+		<Metadata name="Subsystem.sj_ИнтеграцияСSaluteJazz" id="ef48812f-d95e-446b-9b73-fe836b5daab9" configVersion="adfaaf4335cb53c8de4b80c8a7d0889a53dd20a0"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

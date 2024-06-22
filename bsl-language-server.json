@@ -1,0 +1,17 @@
+{
+    "diagnostics": {
+        "skipSupport": "withSupport",
+        "ordinaryAppSupport": false,
+        "parameters": {
+            "LatinAndCyrillicSymbolInWord": {
+                "excludeWords": "ЧтениеXML, ЧтениеJSON, ЗаписьXML, ПостроительDOM, НоваяЗаписьXML, ТекстЗапросаXML, ЗаписьJSON, ComОбъект, ФабрикаXDTO, ОбъектXDTO, СоединениеFTP, FTPСоединение, HTTPСоединение, HTTPЗапрос, HTTPОтвет, HTTPСервисОтвет, SMSСообщение, WSПрокси, ЗаголовкиHTTP, ЗначениеИзСтрокиJSON, ЗначениеВСтрокуJSON, СтрокаBase64, СтрокаJSON, ПреобразоватьUnixTimeВДату"
+            },
+            "DeprecatedMethods8317": false,
+            "SetPrivilegedMode": false,            
+            "UsingObjectNotAvailableUnix": false,
+            "Typo": {
+                "userWordsToIgnore": "Сериализация, сериализация, Сериализации, сериализации, Видеовстреча, видеовстреча"
+            }    
+        }
+    }
+}
